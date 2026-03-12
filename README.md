@@ -1,6 +1,22 @@
 # Movies_Rating
-#Overview : The Analyzing and Visualizing Movie Ratings project focuses on exploring a movie ratings dataset to understand patterns, trends, and relationships in movie data. The main goal of this project is to clean the dataset, analyze different features such as ratings, genres, and release years, and create visualizations to better understand audience preferences.
+# Overview 
+This project analyzes IMDb movie data
+to understand patterns in a movie ratings,genres,and
+releases years using Exploratory Data Analysis(EDA).
+The goal is to find trends and factors that influence 
+movie rating.
 
-#Tools used : Python Jupyter Notebook Pandas Matplotlib Seaborn
+#Tools used
+Python
+Jupyter
+Notebook
+Pandas 
+Matplotlib
+Seaborn
 
-#Key Insights : Most movies fall within a moderate rating range, indicating that the majority of films receive average ratings rather than extremely high or low scores. Some genres such as Action, Drama, and Comedy tend to have more movies and often receive higher audience engagement. The analysis helps identify the movies with the highest ratings, which may represent audience favorites.
+#Key Insights 
+Most movie ratings fall between 6 and 8.
+Drama and crime movies appear frequently among 
+top-rated films.
+The number of movies released each year has 
+increased significantly in recent decades.
