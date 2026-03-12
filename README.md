@@ -8,7 +8,7 @@ movie rating.
 
 ## Tools used:
 -Python 
--Jupyter Notebook  
+-Jupyter notebook  
 -Pandas  
 -Matplotlib  
 -Seaborn
