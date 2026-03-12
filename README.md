@@ -1,15 +1,19 @@
 # Movies_Rating
-# Overview 
+## Overview 
 This project analyzes IMDb movie data
 to understand patterns in a movie ratings,genres,and
 releases years using Exploratory Data Analysis(EDA).
 The goal is to find trends and factors that influence 
 movie rating.
 
-# Tools used:
-Python  Jupyter Notebook  Pandas  Matplotlib  Seaborn
+## Tools used:
+-Python 
+-Jupyter Notebook  
+-Pandas  
+-Matplotlib  
+-Seaborn
 
-# Key Insights:
+## Key Insights:
 Most movie ratings fall between 6 and 8.
 Drama and crime movies appear frequently among 
 top-rated films.
