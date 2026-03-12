@@ -7,12 +7,7 @@ The goal is to find trends and factors that influence
 movie rating.
 
 # Tools used:
-Python
-Jupyter
-Notebook
-Pandas 
-Matplotlib
-Seaborn
+Python,Jupyter Notebook, Pandas, Matplotlib,Seaborn
 
 # Key Insights:
 Most movie ratings fall between 6 and 8.
