@@ -7,7 +7,7 @@ The goal is to find trends and factors that influence
 movie rating.
 
 ## Tools used:
--Python 
+-Python   
 -Jupyter notebook  
 -Pandas  
 -Matplotlib  
