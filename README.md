@@ -6,7 +6,7 @@ releases years using Exploratory Data Analysis(EDA).
 The goal is to find trends and factors that influence 
 movie rating.
 
-# Tools used
+# Tools used:
 Python
 Jupyter
 Notebook
@@ -14,7 +14,7 @@ Pandas
 Matplotlib
 Seaborn
 
-# Key Insights 
+# Key Insights:
 Most movie ratings fall between 6 and 8.
 Drama and crime movies appear frequently among 
 top-rated films.
